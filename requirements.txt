@@ -20,3 +20,4 @@ opencv-python==4.5.3.56
 pandas-profiling==2.6.0
 xgboost==1.4.2
 lightgbm==3.2.1
+imblearn==0.0
